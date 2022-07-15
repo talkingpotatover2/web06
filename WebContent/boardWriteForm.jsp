@@ -5,6 +5,7 @@
 <head>
 <meta charset="UTF-8">
 <title>Insert title here</title>
+<!-- https://bootsnipp.com/snippets/KXQ -->
 <link href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.min.css" rel="stylesheet" id="bootstrap-css">
 <script src="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/js/bootstrap.min.js"></script>
 <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
@@ -86,8 +87,8 @@ a{
         	<textarea class="form-control" rows="20px" cols="20px" name="memo" placeholder="글 내용"></textarea>
         </div>
         <div class="form-group">
-			<td><input type="submit" class="btn btn-default login-popup-btn" value="전송"></td>
-			<td><input type="reset" class="btn btn-default login-popup-btn" value="취소"></td>
+			<td><input type="submit" class="btn btn-default login-popup-btn" value="update"></td>
+			<td><input type="reset" class="btn btn-default login-popup-btn" value="cancel"></td>
         </div>
 	</form>
 </div>
